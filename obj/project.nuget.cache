@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "QswXS4BYEeDcIdp3BeVOijcbAj+SgWv8/F/kBY73NiArKiFEE4ldwmYtI09ES4IcgzQZcGBUhM66xL2015H5hw==",
+  "success": true,
+  "projectFilePath": "/home/hhhh/.local/share/Terraria/tModLoader/ModSources/youtube/youtube.csproj",
+  "expectedPackageFiles": [
+    "/home/hhhh/.nuget/packages/tmodloader.codeassist/0.1.5/tmodloader.codeassist.0.1.5.nupkg.sha512",
+    "/home/hhhh/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.25/microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

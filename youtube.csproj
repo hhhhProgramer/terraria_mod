@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Microsoft.NET.Sdk">
+  <Import Project="..\tModLoader.targets" />
+  <PropertyGroup>
+    <AssemblyName>youtube</AssemblyName>
+    <TargetFramework>net6.0</TargetFramework>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <LangVersion>latest</LangVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="tModLoader.CodeAssist" Version="0.1.*" />
+    <Content Include="Youtube.cs" />
+    <Content Include="Items\key.cs" />
+    <Content Include="obj\project.assets.json" />
+    <Content Include="Properties\launchSettings.json" />
+    <Content Include="build.txt" />
+    <Content Include="Systems\KeybindSystem.cs" />
+    <Content Include="Localization\en-Us.hjson" />
+    <Content Include="Localization\en-US.hjson" />
+    <Content Include="Localization\en-US_Mods.youtube.hjson" />
+    <Content Include="Players\ExampleKeybindPlayer.cs" />
+  </ItemGroup>
+</Project>
